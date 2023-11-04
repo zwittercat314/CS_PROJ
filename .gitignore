@@ -3,3 +3,8 @@
 /.vscode
 /build
 /output
+
+# file
+Spam.c
+spam.ipynb
+main.exe
